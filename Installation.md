@@ -10,5 +10,12 @@
 2. Run setup.
 3. Restart the application. 
 
+## Verification 
+
+   Launch the application.
+
+   Verify the Login page appears.
+
+
 
 ECHO is on.
