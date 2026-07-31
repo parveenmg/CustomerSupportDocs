@@ -3,7 +3,13 @@
 
 - Java 21
 - Windows 10 or later
-- 
+- Minimum 8 GB RAM
+- Google Chrome version 125 or later
+- Administrator privileges during installation
+- Stable internet connection
+
+
+
 ## Installation steps
 
 1. Download Installer. 
@@ -15,6 +21,8 @@
    Launch the application.
 
    Verify the Login page appears.
+
+
 
 
 
