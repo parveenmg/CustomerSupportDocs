@@ -10,5 +10,12 @@
 How do I contact support?
 
 Email support@company.com
+
+## Q3
+
+  Where can I download updates?
+  
+  Downloads are available on company portal.
+
    
 ECHO is on.
