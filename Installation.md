@@ -22,6 +22,13 @@
 
    Verify the Login page appears.
 
+## Login Screen
+
+   After completing the installation, verify that the Login page appears as shown below.
+
+![Customer Support Portal Login Screen](images/login-page-v2.png)  
+   
+
 
 
 
