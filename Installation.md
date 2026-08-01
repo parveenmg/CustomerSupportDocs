@@ -16,6 +16,9 @@
 
    Verify the Login page appears.
 
-
+## Supported Operating Systems
+- Windows supported
+- Linux supported
+- macOS supported
 
 ECHO is on.
