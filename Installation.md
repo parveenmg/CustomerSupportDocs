@@ -32,5 +32,11 @@
 
 
 
+=======
+## Supported Operating Systems
+- Windows supported
+- Linux supported
+- macOS supported
+>>>>>>> origin/master
 
 ECHO is on.
