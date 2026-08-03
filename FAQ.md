@@ -17,5 +17,10 @@ Email support@company.com
   
   Downloads are available on company portal.
 
+## Q4
+
+  How do I reset my password?
+
+  Click  \*\*Forgot Password\*\* on the login page and follow the instructions sent to your registered email.
    
 ECHO is on.
