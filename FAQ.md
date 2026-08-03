@@ -23,4 +23,10 @@ Email support@company.com
 
   Click  \*\*Forgot Password\*\* on the login page and follow the instructions sent to your registered email.
    
+## Q5
+
+  Does the application support macOS?
+
+  No. The application currently supports Windows 10 and Windows 11 only.
+
 ECHO is on.
