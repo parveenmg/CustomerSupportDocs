@@ -39,4 +39,16 @@
 - macOS supported
 >>>>>>> origin/master
 
+## Troubleshooting
+
+  If the installation fails:
+
+- Verify that Java 21 is installed.
+- Ensure you have administrator privileges.
+- Check your internet connection.
+- Restart the installer and try again.
+
+
+
+
 ECHO is on.
