@@ -48,6 +48,15 @@
 - Check your internet connection.
 - Restart the installer and try again.
 
+## Supported Operating Systems
+
+•	Windows 10 
+
+•	Windows 11 
+
+•	Windows Server 2022
+
+**Note:** Administrator privileges are required to install the application.
 
 
 
