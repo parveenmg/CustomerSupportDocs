@@ -48,7 +48,7 @@
 - Check your internet connection.
 - Restart the installer and try again.
 
-
-
+### Java 21 not found
+    Make sure Java 21 is installed and configured correctly before running the application.
 
 ECHO is on.
