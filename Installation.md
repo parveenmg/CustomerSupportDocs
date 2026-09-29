@@ -51,7 +51,7 @@
 > Make sure Java 21 is installed and configured correctly before running the application.
 
 ## Requirement
-> java 21 is required.
+> java 21 is required for Installation.
 
 
 
