@@ -29,10 +29,5 @@ Email support@company.com
 
   No. The application currently supports Windows 10 and Windows 11 only.
 
-## Q6
-
-How do I check which operating systems are supported?
-
-The application currently supports Windows 10 and Windows 11 only.
 
 ECHO is on.
