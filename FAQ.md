@@ -9,7 +9,7 @@
 
 How do I contact support?
 
-Email support@company.com
+Email support at support@company.com
 
 ## Q3
 
