@@ -43,7 +43,7 @@
   If the installation fails:
 
 - Verify that Java 21 is installed.
-- Ensure you have administrator privileges.
+- Users without administrator privileges should contact their IT administrator.
 - Check your internet connection.
 - Restart the installer and try again.
 
