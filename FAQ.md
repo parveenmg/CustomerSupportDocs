@@ -29,5 +29,7 @@ Email support at support@company.com
 
   No. The application currently supports Windows 10 and Windows 11 only.
 
+## Q: Where can users find installation help?
 
+A: Refer to the Installation Guide for installation instructions.
 ECHO is on.
