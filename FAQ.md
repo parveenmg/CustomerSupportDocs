@@ -4,7 +4,7 @@
 
   How do I reset my password?
 
-  Use forgot Password option.
+  Use the Forgot Password option.
 ## Q2
 
 How do I contact support?
