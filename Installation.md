@@ -50,9 +50,9 @@
 ## Java 21 not found 
 > Make sure Java 21 is installed and configured correctly before running the application.
 
-## Requirement
+## Requirements
 
-> java 21 or later is required.
+> java 17 or later is required.
 
 
 
