@@ -1,7 +1,7 @@
 # Installation Guide
 ## Prerequisites
 
-- Java 17
+- Java 21
 - Minimum 8 GB RAM
 - Google Chrome version 125 or later
 - Administrator privileges during installation
