@@ -29,5 +29,9 @@ Email support at support@company.com
 
   No. The application currently supports Windows 10 and Windows 11 only.
 
+## Q6
 
-ECHO is on.
+   Which browsers are supported?
+
+   Google Chrome version 125 or later.
+
