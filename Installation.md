@@ -28,15 +28,11 @@
 ![Customer Support Portal Login Screen](images/login-page-v2.png)  
    
 
-
-
-
-=======
 ## Supported Operating Systems
+
 - Windows supported
 - Linux supported
 - macOS supported
->>>>>>> origin/master
 
 ## Troubleshooting
 
@@ -52,9 +48,4 @@
 
 ## Requirements
 
-> java 17 or later is required.
-
-
-
-
-ECHO is on.
+> Java 21 or later is required.
