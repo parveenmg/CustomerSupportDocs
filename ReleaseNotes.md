@@ -7,7 +7,7 @@ Initial release.
 ## Version 2.1
   
 ### New Features
--  Windows Sever 2022 support
+-  Windows Server 2022 support
 - Improved installation validation
 
 ### Bug Fixes
